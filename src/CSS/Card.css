@@ -1,0 +1,27 @@
+/* #34495e */
+
+.card {
+    width: 28rem;
+    box-shadow: 10px 16px 30px 1px rgba(52,73,94,1);
+    border-radius: 10px;
+    color: white;
+}
+
+.card-title {
+    color: black;
+}
+
+img{
+    width: 8rem;
+    border-radius: 5px;
+}
+
+.achievement-container {
+    background-color: #a1aab9;
+    border-radius: 5px;
+}
+
+.achievement-container p{
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+}
